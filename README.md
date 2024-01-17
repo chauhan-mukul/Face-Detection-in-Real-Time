@@ -24,3 +24,7 @@ The Haarcascade classifier employs a cascade structure with multiple stages. Eac
 
 ## Sliding Window Technique:
 The classifier uses a sliding window technique to scan through the input image at various scales and positions. At each step, the classifier evaluates the presence of face-like features within the window. If a region passes all stages of the cascade, it is classified as a face.
+
+# Where Use Face Detection
+
+Face Detection is used to collect data for or create dataset for model like face recognition. It is the a step in data collection which with use of  open cv can be used to create datasets
